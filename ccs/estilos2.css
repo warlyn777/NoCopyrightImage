@@ -1,0 +1,150 @@
+﻿img {
+    height: 50px;
+}
+
+h1 {
+    font-family: Algerian;
+}
+
+p {
+    font-family: Arial;
+    font-size: 15px;
+}
+
+li {
+    font-family: 'Arial Rounded MT';
+}
+
+
+#imagen {
+    height: 15px;
+}
+
+.menu {
+    background-color: #212F3D;
+    height: 50px;
+}
+
+li {
+    color: white;
+    list-style: none;
+    display: inline-block;
+}
+
+.ul {
+    text-align: center;
+    float: right;
+  
+}
+
+#imagene {
+    height: 50px;
+}
+
+li:hover {
+    background-color: #BDC3C7;
+}
+
+.he {
+    background-color: #EB984E;
+    height: 4px;
+}
+
+#autor {
+    height: 40px;
+}
+
+#container {
+    background-color: #D5DBDB;
+}
+
+.sb_wrapper {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+    width: 372px;
+}
+
+
+
+#recientes {
+    height: 150px;
+    left: 10px;
+    transform: scale(1.2);
+    transition: all .5s ease;
+    overflow: hidden;
+}
+
+
+
+h1 {
+    color: black;
+}
+
+.contenedor {
+    background-color: #AAB7B8;
+    height:110px;
+    width:110px;
+}
+
+#categoria1{
+    height:190px;
+}
+.box-image {
+    width: calc(100px * 3);
+    margin: 10px;
+    border-radius: 2px;
+    box-shadow: 0 0 7px 0 rgba(0,0,0,.6);
+    overflow: hidden;
+}
+.box-image img {
+        width: 100%;
+        vertical-align: top;
+        cursor: pointer;
+        transition: all .5s ease;
+    }
+
+.box-image img:hover {
+    transform: scale(1.2);
+}
+.categoria1{
+    align-items:center;
+}
+.categoriass {
+    width: 100%;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+a{
+    color:white;
+}
+.disabled{
+    background-color:black;
+    font-family:Algerian;
+    height:50px;
+}
+#boton1{
+    height:30px;
+}
+
+
+
+.panel{
+   font-family:Algerian;
+
+}
+.hee {
+    background-color: #1B2631;
+    height: 4px;
+    width:529px;
+}
+h4{
+    background-color:white;
+    font-family:Algerian;
+}
